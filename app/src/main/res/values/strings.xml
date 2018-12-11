@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="rss_noinfo">Sin informacion</string>
+    <string name="rss_title_PeliculasEnCartelera">Peliculas en cartelera</string>
+</resources>
